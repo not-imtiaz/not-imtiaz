@@ -1,4 +1,4 @@
-<img src = "githubbanner.JPG"/>
+<img src = "githubbanner.png"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
