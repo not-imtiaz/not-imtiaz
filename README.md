@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-      <em><b> Studying at the Ispahani Cantonment Public School And College (UNA) </b></em> <br/>
+      <em><b> Studying at the Ispahani Cantonment Public School And College  </b></em> <br/>
       <em><b> Owner of Synthetics </b></em><br/>
       <em><b> Competitor in the Market (2025 - 2026) </b></em><br/>
       <em><b> Chess Player  </b></em><br/>
