@@ -1,63 +1,68 @@
-<div align="center">
+<img src = "githubanner.JPG"/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=250&section=header&text=IMTIAZ%20AHMED&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/glorffindel" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  </a>
+</p>
+
+
+<br>
+
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Imtiaz Ahmed </b></em>, a curious kid. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+</p>
+
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZETRO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYNTHETICS-000000?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Ispahani Cantonment Public School And College (UNA) </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Owner of Synthetics </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the Market (2025 - 2026) </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
 
 <br/>
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👤 About me</h3>
-      <p>Hello! I'm <b>Imtiaz Ahmed</b>, a developer and designer based in Cumilla. I specialize in building minimalist, high-performance systems and brutalist digital experiences. Currently focused on R&D and high-end streetwear branding.</p>
-      <br/>
-      <p align="left">
-        🏛️ <b>Founder:</b> ZETRO (Streetwear) & Synthetics (Agency)<br/>
-        🤖 <b>AI Project:</b> A.R.I.S. (Home & PC Control)<br/>
-        📓 <b>R&D:</b> The Ledger (Offline Project Management)<br/>
-        🐧 <b>OS:</b> Arch Linux / CachyOS
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWp6ZjBqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
-
 <br/>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
-<h3>⚙️ Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,arduino,git,linux,figma,html,css,js&theme=dark" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br/>
 
-<h3>📊 Statistics</h3>
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=not-imtiaz&show_icons=true&theme=dark&hide_border=false&count_private=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=not-imtiaz&theme=dark&hide_border=false" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>📈 Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=not-imtiaz&theme=github-dark-wide&area=true&hide_border=false" width="100%" />
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
-
----
-<p align="center">"Keep it classic."</p>
